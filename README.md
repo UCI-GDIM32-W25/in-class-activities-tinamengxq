@@ -10,7 +10,7 @@ Our advice is that we should understand every code that we are writing and solve
 4. MonoBehavior
 5. Immediately after the game starts, print "x = 10" in the console.
 6. 10 is the argument. "10" assignes the value of 10 to the parameter x. (“x = ” + x) combines a string with an int to be an entire parameter. These determines the input of the method.
-7. The bug appears in the line: Transform.Translate(_direction);. Transform here is incorrect. We shouldn't use a class to be the method.
+7. The bug appears in the line: Transform.Translate(_direction);. Transform here is incorrect. We shouldn't use a class translate.
 8. Transform should be changed into _playerTransform
 
 ### Activity 3
