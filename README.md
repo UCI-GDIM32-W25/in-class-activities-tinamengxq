@@ -13,5 +13,6 @@ Hit enter TWICE to create a new line.
 Remove all placeholder text in order to get full credit for README file formatting.
 
 ## W1
-Make sure that you understand every code you are writing. 
-You must solve every problem the game tester askes you.
+
+- Make sure that you understand every code you are writing. 
+- You must solve every problem the game tester askes you.
