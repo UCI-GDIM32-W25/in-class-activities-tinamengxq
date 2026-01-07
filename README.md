@@ -14,3 +14,4 @@ Remove all placeholder text in order to get full credit for README file formatti
 
 ## W1
 Make sure that you understand every code you are writing. 
+You must solve every problem the game tester askes you.
