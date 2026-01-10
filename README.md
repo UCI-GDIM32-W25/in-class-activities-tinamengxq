@@ -14,4 +14,4 @@ Our advice is that we should understand every code that we are writing and solve
 8. Transform should be changed into _playerTransform
 
 ### Activity 3
-https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing
+[MG1 break down google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
