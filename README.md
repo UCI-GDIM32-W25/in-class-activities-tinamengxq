@@ -22,3 +22,5 @@ Our advice is that we should understand every code that we are writing and solve
 ![IMG_6751](https://github.com/user-attachments/assets/cd4ab5f8-9445-4936-bbcc-155ecad403ec)
 
 ### Activity 2
+I created all the gameobjects required and all the scripts that will be used. I enabled the bird to stay on the ground and jump when player hits space. I finished the script of UI. I also added all necessary components I can think of so far to all the gameobjects I created so far.
+[New Commit for MG2](https://github.com/UCI-GDIM32-W25/mg2-tinamengxq/commit/f14c7c1ba8b60ee409852aecf1a3c6f612339da4)
