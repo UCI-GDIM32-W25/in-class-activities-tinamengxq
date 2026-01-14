@@ -15,3 +15,9 @@ Our advice is that we should understand every code that we are writing and solve
 
 ### Activity 3
 [MG1 break down google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
+
+
+## W2
+### Activitiy 1
+
+### Activity 2
