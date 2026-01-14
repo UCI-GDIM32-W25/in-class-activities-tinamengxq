@@ -19,5 +19,6 @@ Our advice is that we should understand every code that we are writing and solve
 
 ## W2
 ### Activitiy 1
+![IMG_6751](https://github.com/user-attachments/assets/cd4ab5f8-9445-4936-bbcc-155ecad403ec)
 
 ### Activity 2
