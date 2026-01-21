@@ -30,3 +30,4 @@ I created all the gameobjects required and all the scripts that will be used. I 
 Jingyi Bi
 
 ### Activity 3
+![IMG_6784](https://github.com/user-attachments/assets/b8c913f5-4479-4f59-b932-e571aca9792c)
