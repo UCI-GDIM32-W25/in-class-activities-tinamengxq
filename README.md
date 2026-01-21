@@ -29,4 +29,4 @@ I created all the gameobjects required and all the scripts that will be used. I 
 ### Activity 0-2
 Jingyi Bi
 
-### Activity 1
+### Activity 3
