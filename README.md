@@ -47,4 +47,5 @@ All the rest Locators disappear after I run the game, and there is only ONE Loca
 This code destroies all the extra Locators in the hierarchy and make sure there is only one left running in the game. 
 
 ### Activity 2
+![IMG_6804](https://github.com/user-attachments/assets/c7d76d81-a82e-482a-b793-17688d6b46a1)
 
