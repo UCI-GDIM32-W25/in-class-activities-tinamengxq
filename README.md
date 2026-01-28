@@ -35,3 +35,16 @@ Jingyi Bi
 ## W4
 ### Activity 0
 Yuxin Ding
+
+### Activity 1
+All the rest Locators disappear after I run the game, and there is only ONE Locator left in the hierarchy. This is because of the code in the Locator. 
+
+        if (Instance != null && Instance != this){                          
+              Destroy(gameObject);                                                  
+              return;                                                         
+          }
+
+This code destroies all the extra Locators in the hierarchy and make sure there is only one left running in the game. 
+
+### Activity 2
+
