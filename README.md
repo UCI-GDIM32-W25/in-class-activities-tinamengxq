@@ -49,3 +49,6 @@ This code destroies all the extra Locators in the hierarchy and make sure there 
 ### Activity 2
 ![IMG_6804](https://github.com/user-attachments/assets/c7d76d81-a82e-482a-b793-17688d6b46a1)
 
+### Activity 3
+[Commit](https://github.com/tinamengxq/HW4/commit/34e11c850eabdac4b5424250c8e023f86b923a01)
+I added sprites of bird and pipe. I sliced the sprites. I managed to arrange the scale of the screen. I added player and pipe game objects. I created player.cs. I added ground game object. I added collision component to the player and change the collider the player.
