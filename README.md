@@ -55,3 +55,30 @@ I added sprites of bird and pipe. I sliced the sprites. I managed to arrange the
 
 ## W5
 ### Activity 1
+I think the use of interface make it clear for me to find the responses of specific items to the same event. It makes sure that I won't forget any necessary responses of any items while compiling my scripts. I will keep it because I think that it is clear to present all the actions of each items. And also if I choose not use interfaces and abstract classes, the total amount of code will greatly increase.
+
+### Activity 2
+in the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
+Model: Item.cs, Enemystats.cs
+View: DialogueBubble.cs, Inventory.cs
+Controller: Enemy.cs, Player.cs
+
+### Activity 3
+#### Scenario 1
+scriptableobjects: each button (sprites, _movespeed)
+finite state machine: player whether missed button & different scores each button will give
+model-view-controller:
+    - model: list of buttons(buttons)
+    - view: score UI, time count down
+    - controller: response to player's finger, 
+singleton: locator of player
+inheritance: button move to a place, button disappear and add scores. 
+#### Scenario 2
+model-view-controller: 
+controller: the ability to causing damange to other players
+view: ui that activate the ability
+#### Scenario 3
+
+
+### Activity 4
+Attendance: Tina Meng, Yuxin Ding, Yan Zhang
