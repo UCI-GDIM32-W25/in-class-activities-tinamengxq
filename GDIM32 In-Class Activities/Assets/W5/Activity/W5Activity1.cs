@@ -1,7 +1,8 @@
 using System.Collections.Generic;
+using JetBrains.Annotations;
 using UnityEngine;
 
-/*
+
 
 public class W5Activity1 : MonoBehaviour
 {
@@ -50,7 +51,8 @@ public abstract class Item {
 	public abstract void Use();
 }
 
-public class Axe : Item, IBreakable {
+public class Axe : Item, IBreakable
+{
 	private float _durability = 5.0f;
 	
 	public void Damage (float damage) {
@@ -66,16 +68,22 @@ public class Axe : Item, IBreakable {
 		Debug.Log("attacking with axe");
 		Damage(1.0f);
 	}
+
+	public void Break() {
+		//Debug.Log("axe is broken!");
+	}
 }
 
+
 public class ElvenSword : Item {
-	public void Use () {
+	public override void Use () {
 		Debug.Log("attacking with Elven sword");
 	}
 }
 
 public class Torch : Item, IBreakable {
 	
+	private float _durability = 1.0f;
 	public void Damage (float damage) {
 		_durability -= damage;
 		Debug.Log("torch now has " + _durability + " durability remaining");
@@ -85,14 +93,13 @@ public class Torch : Item, IBreakable {
 		}
 	}
 	
-	public void BreakItem () {
+	public void Break() {
 		Debug.Log("torch is broken!");
 	}
 	
-	protected override void Use () {
+	public override void Use () {
 		Debug.Log("lighting area with torch");
 		Damage(1.0f);
 	}
 }
 
-*/
