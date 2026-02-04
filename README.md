@@ -77,8 +77,14 @@ inheritance: button move to a place, button disappear and add scores.
 model-view-controller: 
 controller: the ability to causing damange to other players
 view: ui that activate the ability
+finite state machine: different arms cause different harms & player's living state
 #### Scenario 3
+finite state machine: plants' growing status
+model-view-controller: 
+controller: ability plants grow
+scriptableobjects: different plants
 
 
 ### Activity 4
 Attendance: Tina Meng, Yuxin Ding, Yan Zhang
+[Final draft proposal](https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing)
