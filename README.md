@@ -84,7 +84,22 @@ model-view-controller:
 controller: ability plants grow
 scriptableobjects: different plants
 
-
 ### Activity 4
 Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 [Final draft proposal](https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing)
+
+## W6
+### Activity 1
+- Gizmos:
+    1. The animal and the fruit change the directions that they face while moving. 
+    2. Gizmos function helped create a red line to show which direction they two gameObjects are facing. 
+    3. I want to track which direction the player is facing in the final project. I also want to track the direction that the NPCs are facing. Thus, I can try to make NPCs look at the player in the game. Gizmos may help me to find the certain directions. 
+- Breakpoint
+    1. Prof created a breakpoint at the code CapybaraW6Demo3.Instance.ResetLocation(); This calls the singleton
+    2. This breakpoint stops unity. We can debug without writing the debug lines, which will take longer time. 
+    3. CALL STACK, to see what chain of events happened before the breakpoint works
+    4. It would be useful to debug when coding the final project.
+- Profiling
+    1. Modifying the movement of prefab. 
+    2. Using only one Gizmos function to govern all the prefabs.
+    3. No idea how to use it in the final project. But I think I will definitely use these because the final project must be very large as there are many assets and classes. The game might run very slow. 
