@@ -103,3 +103,6 @@ Attendance: Tina Meng, Yuxin Ding, Yan Zhang
     1. Modifying the movement of prefab. 
     2. Using only one Gizmos function to govern all the prefabs.
     3. No idea how to use it in the final project. But I think I will definitely use these because the final project must be very large as there are many assets and classes. The game might run very slow. 
+
+### Activity 2
+Attendance: Tina Meng, Yan Zhang, Yuxin Ding
