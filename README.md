@@ -125,4 +125,5 @@ Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 [Trello board](https://trello.com/invite/b/69951b72679c6bfc86fd7473/ATTIe110d0d03bfe681230d9c583968571743A2A2C13/gdim-32-final)
 
 ### Activity 5
-[Final commit](https://github.com/tinamengxq/GDIM32-Final/commit/465aad2af5b17736f1b9ec9918b109c87e198992)
+[Final commit](https://github.com/tinamengxq/GDIM32-Final/commit/65a384d5f26a0971453709fac972b83feedf9feb)
+I created all scripts and coded scripts inside NPC, Clerk, Cat, Player.
