@@ -121,3 +121,5 @@ Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 ### Activity 3
 ![Final project structure](https://github.com/user-attachments/assets/c57fcd25-3dbf-44ac-8940-102be42d57d1)
 
+### Activity 4
+[Trello board](https://trello.com/invite/b/69951b72679c6bfc86fd7473/ATTIe110d0d03bfe681230d9c583968571743A2A2C13/gdim-32-final)
