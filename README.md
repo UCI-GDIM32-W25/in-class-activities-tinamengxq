@@ -107,3 +107,6 @@ Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 ### Activity 2
 Attendance: Tina Meng, Yan Zhang, Yuxin Ding
 [Final proposal draft](https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing)
+
+## W7
+### Activity 1
