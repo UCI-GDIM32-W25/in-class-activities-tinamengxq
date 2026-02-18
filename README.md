@@ -110,3 +110,9 @@ Attendance: Tina Meng, Yan Zhang, Yuxin Ding
 
 ## W7
 ### Activity 1
+1. when the gizmos red line goes through an object in the environment, a red sphere will appear on the object to show the "passing through"
+2. Raycast only returns true/false. False: the line didn't hit anything; True: did hit sth., then check the point the line hit.
+3. Spherecast is looking at an area containing the sphere instead of looking at an ray to so if there are sth. in the way. (Might be a better choice than raycast)
+4. If we use Debug.Log(), matrixes will be presented in the console. 
+### Activity 2
+Attendance: Tina Meng, Yuxin Ding, Yan Zhang
