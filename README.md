@@ -119,3 +119,5 @@ Attendance: Tina Meng, Yan Zhang, Yuxin Ding
 Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 
 ### Activity 3
+![Final project structure](https://github.com/user-attachments/assets/c57fcd25-3dbf-44ac-8940-102be42d57d1)
+
