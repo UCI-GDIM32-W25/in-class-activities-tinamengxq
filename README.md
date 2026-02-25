@@ -127,3 +127,17 @@ Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 ### Activity 5
 [Final commit](https://github.com/tinamengxq/GDIM32-Final/commit/d9784fc11256d7bb46c00e1731344787509dc548)
 I created all scripts and coded scripts inside NPC, Clerk, Cat, Player.
+
+## W8
+### Activity 1
+- Rendering pipeline
+    1. If the scriptable pipeline is empty, you need to build in
+    2. whenever you are downloading from the assets store, overview will tell you which RP will be using
+- Post-processing
+    1. easy way to make your game look professional
+    2. shaders that affect the entire screen
+    3. install the post-processing package
+        - window>pacakge manager
+    4. make an object, add new layer, add post-process volume
+    5. okay to import with code if post-processing
+
