@@ -151,8 +151,9 @@ The Zoo team’s scene is relatively basic (only one platform), but the interact
 
 
 Buddy group:
+
 The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
 
 ### Activity 4
-Add and improve the scene and fix minor bugs; 
-Find sound effect for Cat Playing;
+1. Add and improve the scene and fix minor bugs
+2. Find sound effect for Cat Playing
