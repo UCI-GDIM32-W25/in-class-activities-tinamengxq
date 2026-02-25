@@ -141,3 +141,18 @@ I created all scripts and coded scripts inside NPC, Clerk, Cat, Player.
     4. make an object, add new layer, add post-process volume
     5. okay to import with code if post-processing
 
+### Activity 2
+Attendance: Tina Meng, Yuxin Ding, Yan Zhang
+
+### Activity 3
+Our group:
+
+The Zoo team’s scene is relatively basic (only one platform), but the interaction is well‑designed. What is confusing is that the to‑do list provides no result or feedback whatsoever after a task is completed.
+
+
+Buddy group:
+The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
+
+### Activity 4
+Add and improve the scene and fix minor bugs; 
+Find sound effect for Cat Playing;
