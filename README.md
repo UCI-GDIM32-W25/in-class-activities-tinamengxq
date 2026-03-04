@@ -169,10 +169,10 @@ Imported props and models for surroundings, changed positions for all the charac
     - as a GDIM student:
         - clear patterns and clear break down
 - Branching dialogue
-
+    - Scriptable Objects
+- Test on the build of itch.io!!!
 ### Activity 2
 Attendance: Tina Meng, Yuxin Ding, Yan Zhang
-
 ### Activity 3
 
 ### Activity 4
