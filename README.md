@@ -174,8 +174,16 @@ Imported props and models for surroundings, changed positions for all the charac
 ### Activity 2
 Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 ### Activity 3
-
+We found that the task instructions were not clear enough. Some players couldn't confirm that there were multiple quests. They also didn't understand the end state of the game. And our cat is a bit small, and it might not be easy for them to find immediately. Therefore, we might plan to create a start UI at the beginning to explain the background and adjust the UI content to ensure clear instructions.
 ### Activity 4
-
+Finished tasks: 
+- All tasks listed last time
+- Built scenes
+Pending tasks:
+- create transparent well around the terrain
+- update dialogue system (scriptable objects)
+- more specific guidelines for players
+- create start game (inform players game background) and end game UI 
 ### Activity 5
-[Last commit link]()
+[Last commit link](https://github.com/tinamengxq/GDIM32-Final/commit/35079cb0b9c1fa00e0d0115e3820bf6a8a2e7cd2)
+Decreased the scale of the terrain. Built transparent walls around the terrain to stop player from falling out of the terrain.
