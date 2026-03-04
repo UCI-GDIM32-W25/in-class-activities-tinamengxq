@@ -165,6 +165,10 @@ Imported props and models for surroundings, changed positions for all the charac
 
 ## W9
 ### Activity 1
+- Scaling issue
+    - as a GDIM student:
+        - clear patterns and clear break down
+- Branching dialogue
 
 ### Activity 2
 Attendance: Tina Meng, Yuxin Ding, Yan Zhang
