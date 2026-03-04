@@ -162,3 +162,16 @@ The scene is very beautiful and the characters have distinct features. The UI ca
 [Last commit link](https://github.com/tinamengxq/GDIM32-Final/commit/f9f2a3fd564c0d68345d73330b164d7cfec18901)
 
 Imported props and models for surroundings, changed positions for all the characters and props, created and depicted the terrain.
+
+## W9
+### Activity 1
+
+### Activity 2
+Attendance: Tina Meng, Yuxin Ding, Yan Zhang
+
+### Activity 3
+
+### Activity 4
+
+### Activity 5
+[Last commit link]()
