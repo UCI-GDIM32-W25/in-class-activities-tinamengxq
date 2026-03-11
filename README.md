@@ -192,3 +192,8 @@ Decreased the scale of the terrain. Built transparent walls around the terrain t
 ### Activity 1
 Attendance: Tina Meng, Yuxin Ding, Yan Zhang
 ### Activity 2
+We would like to know if the playtesters understand what they need to do, where to pick up the game characters, and whether they are familiar with the game's background and overall gameplay. Before we started the actual gameplay, we added a "start dialogue" which explained to players what they should do next and how to begin the game. The overall playtest went smoothly. The cat still occasionally needed some time for players to find where it is (we will make it larger in the future), but the game progress has improved significantly compared to the previous playtest. And our dialogue optimization enables them to understand that we have two tasks. So after completing the first task, they will return to the NPC to pick up the second one.
+### Activity 3
+We wanted to improve the dialogue part by changing the script in UI and dialogue managers to be using scriptableobject. We did such things but enormous bugs appeared. Our game broke down and the quest can not be called. But in our scripts, everything worked well, we couldn't find any error in codes. We plan to solve one bug in class. And try to solve the other bug in class or after class.
+### Activity 4
+[last commit link](https://github.com/tinamengxq/GDIM32-Final/commit/82dcddd658cdbf13166c89ded4b9297ad0a4f150)
