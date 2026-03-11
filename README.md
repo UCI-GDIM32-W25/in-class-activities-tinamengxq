@@ -187,3 +187,8 @@ Pending tasks:
 ### Activity 5
 [Last commit link](https://github.com/tinamengxq/GDIM32-Final/commit/35079cb0b9c1fa00e0d0115e3820bf6a8a2e7cd2)
 Decreased the scale of the terrain. Built transparent walls around the terrain to stop player from falling out of the terrain.
+
+## W10
+### Activity 1
+Attendance: Tina Meng, Yuxin Ding, Yan Zhang
+### Activity 2
